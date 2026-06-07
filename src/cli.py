@@ -1,4 +1,5 @@
 """Glowny modul programu."""
+
 from src.logic import kalkulator
 
 

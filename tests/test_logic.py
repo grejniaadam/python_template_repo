@@ -1,4 +1,5 @@
 """Testy programu."""
+
 from src.logic import kalkulator
 
 
