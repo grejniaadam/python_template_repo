@@ -1,4 +1,7 @@
-from src.logic import pomnoz_przez_dwa
+"""Testy programu."""
+from src.logic import kalkulator
 
-def test_pomnoz_przez_dwa():
-    assert pomnoz_przez_dwa(5) == 10
+
+def test_kalkulator():
+    """Sprawdza mnozenie."""
+    assert kalkulator(5) == 10

@@ -1,2 +1,3 @@
-def pomnoz_przez_dwa(liczba: int) -> int:
+def kalkulator(liczba):
+    """Mnozy przez dwa."""
     return liczba * 2
